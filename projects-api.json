@@ -3,7 +3,7 @@
     "id": 1,
     "title": "Cart App",
     "description": "The ReactJS Cart App offers a streamlined shopping experience. Users can browse products, add items to their cart, delete products, and clear the entire cart.",
-    "image": "images/portfolio.PNG",
+    "image": "images/Cart-App.PNG",
     "repo": "https://github.com/MohamedKhalifa11/cart-app-redux",
     "demo": "https://cart-app-redux-three.vercel.app/"
   },
