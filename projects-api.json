@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": "Cart App",
+    "description": "The ReactJS Cart App offers a streamlined shopping experience. Users can browse products, add items to their cart, delete products, and clear the entire cart.",
+    "image": "images/portfolio.PNG",
+    "repo": "https://github.com/MohamedKhalifa11/cart-app-redux",
+    "demo": "https://cart-app-redux-three.vercel.app/"
+  },
+  {
+    "id": 2,
+    "title": "Basic e-Commerce",
+    "description": "It's a basic e-commerce app displaying products fetched from the Fake Store API website with integrated product filtering functionality.",
+    "image": "images/Basic e-Commerce.PNG",
+    "repo": "https://github.com/MohamedKhalifa11/Basic-Ecommerce",
+    "demo": "https://basic-ecommerce-delta.vercel.app/"
+  },
+  {
+    "id": 3,
+    "title": "Quiz App",
+    "description": "This is a simple Quiz Web App that allows users to test their knowledge of web development technologies and concepts.",
+    "image": "images/Quiz_App.jpeg",
+    "repo": "https://github.com/MohamedKhalifa11/Quiz-App",
+    "demo": "https://mohamedkhalifa11.github.io/Quiz-App/"
+  },
+  {
+    "id": 4,
+    "title": "Landing Page",
+    "description": "Creative landing page for a single author or small agency. Modern and minimalist style with flat colors looks great and professional in any web browser.",
+    "image": "images/landing-Page.PNG",
+    "repo": "https://github.com/MohamedKhalifa11/landing-page",
+    "demo": "https://mohamedkhalifa11.github.io/landing-page/"
+  },
+  {
+    "id": 5,
+    "title": "Four Card Feature",
+    "description": "This employs a responsive design using Flexbox, featuring a Four Card Feature Section, each showcasing a tool/service with a content and image.",
+    "image": "images/Four_Card_Feature.jpeg",
+    "repo": "https://github.com/MohamedKhalifa11/Four-card-feature-section",
+    "demo": "https://mohamedkhalifa11.github.io/Four-card-feature-section/"
+  },
+  {
+    "id": 6,
+    "title": "Interactive Rating",
+    "description": "A rating component that makes the user give his/her feedback or rating after that it show thanks message with his feedback.",
+    "image": "images/Interactive_Rating.jpeg",
+    "repo": "https://github.com/MohamedKhalifa11/Interactive-rating-component",
+    "demo": "https://mohamedkhalifa11.github.io/Interactive-rating-component/"
+  },
+  {
+    "id": 7,
+    "title": "Remove Spaces",
+    "description": "It's developed to remove any extra spaces from your text using a regular expression, you can use it while you are studying to order your text.",
+    "image": "images/Remove-Extra-Spaces.PNG",
+    "repo": "https://github.com/MohamedKhalifa11/No-Extra-Spaces",
+    "demo": "https://mohamedkhalifa11.github.io/No-Extra-Spaces/"
+  },
+  {
+    "id": 8,
+    "title": "Stats Preview Card",
+    "description": "It's a responsive featuring a Stats Preview Card Component with a visually appealing design, highlighting key business insights and statistics.",
+    "image": "images/Stats_Preview_Card.jpeg",
+    "repo": "https://github.com/MohamedKhalifa11/Stats-preview-card-component",
+    "demo": "https://mohamedkhalifa11.github.io/Stats-preview-card-component/"
+  }
+]
