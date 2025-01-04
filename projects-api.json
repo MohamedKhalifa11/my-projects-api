@@ -3,7 +3,7 @@
     "id": 1,
     "title": "Share It",
     "description": "Share It App developed using Next.js and a headless CMS, which allows users to create blog posts featuring real-time previews. It offers secure authentication, bug reporting using screenshots, and performance optimization.",
-    "image": "images/share-it-app.png",
+    "image": "images/share-it-app.jpeg",
     "repo": "https://github.com/MohamedKhalifa11/share-it",
     "demo": "https://pizza-time-m11.vercel.app/"
   },
